@@ -74,56 +74,83 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RESS 2023</div><img src='images/papers/CADA.png' alt="Cross-Domain Augmentation Diagnosis" width="100%">
+      <div class="badge">J. Manuf. Syst. 2024</div>
+      <img src='images/papers/DEN.png' alt="Deep Expert Network" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
+[Deep Expert Network: A Unified Method toward Knowledge-Informed Fault Diagnosis via Fully Interpretable Neuro-Symbolic AI](https://doi.org/10.1016/j.jmsy.2024.10.007)  
+**Qi Li**, Yuekai Liu, Shilin Sun, Zhaoye Qin, Fulei Chu  
 
+- Proposes a neuro-symbolic AI approach to fault diagnosis incorporating interpretable expert knowledge using a Deep Expert Network. *(JCR Q1, Impact Factor: 12.2)*  
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TII 2024</div>
+      <img src='images/papers/TON.png' alt="Transparent Operator Network" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Transparent Operator Network: A Fully Interpretable Network Incorporating Learnable Wavelet Operator for Intelligent Fault Diagnosis](https://doi.org/10.1109/TII.2024.3366993)  
+**Qi Li**, Hua Li, Wenyang Hu, Shilin Sun, Zhaoye Qin, Fulei Chu  
+
+- This work introduces an interpretable method for industrial time series classification by integrating learnable wavelet operators. *(JCR Q1, Impact Factor: 12.3)*  
+  </div>
+</div>
+
+## 🔖 Cross-domain Diagnosis
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RESS 2023</div>
+      <img src='images/papers/CADA.png' alt="Cross-Domain Augmentation Diagnosis" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 [Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://doi.org/10.1016/j.ress.2023.109171)  
 **Qi Li**, Liang Chen, Lin Kong, Dong Wang, Min Xia, Changqing Shen  
 
 - This paper presents a domain generalization approach employing adversarial learning and data augmentation for robust industrial time series classification. *(JCR Q1, Impact Factor: 9.4)*  
-
   </div>
 </div>
-
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE TII. 2022</div><img src='images/papers/ADIG.jpg' alt="Adversarial Domain-Invariant Generalization" width="100%">
+      <div class="badge">IEEE TII. 2022</div>
+      <img src='images/papers/ADIG.jpg' alt="Adversarial Domain-Invariant Generalization" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
 [Adversarial Domain-Invariant Generalization: A Generic Domain-Regressive Framework for Bearing Fault Diagnosis under Unseen Conditions](https://ieeexplore.ieee.org/document/9428592/)  
 **Chen Liang**, **Qi Li**, Changqing Shen, Jun Zhu, Dong Wang, Min Xia  
 
 - A generic domain-regressive framework for fault diagnosis using adversarial learning between feature extractors and domain classifiers, achieving robust diagnosis performance. *(JCR Q1, Impact Factor: 11.7, highly cited🌟)*  
-
   </div>
 </div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">MSSP. 2021</div><img src='images/papers/KMADA.jpg' alt="Knowledge Mapping-Based Adversarial Domain Adaptation" width="100%">
+      <div class="badge">MSSP. 2021</div>
+      <img src='images/papers/KMADA.jpg' alt="Knowledge Mapping-Based Adversarial Domain Adaptation" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
-
 [Knowledge Mapping-Based Adversarial Domain Adaptation: A Novel Fault Diagnosis Method with High Generalizability under Variable Working Conditions](https://doi.org/10.1016/j.ymssp.2020.107095)  
 **Qi Li**, Changqing Shen, Liang Chen, Zhongkui Zhu  
 
 - Introduces a domain adaptation strategy using adversarial learning for improved generalizability in fault diagnosis across variable conditions. *(JCR Q1, Impact Factor: 7.9, highly cited🌟)*  
-
   </div>
 </div>
 
-- [Enhanced generative adversarial networks for fault diagnosis of rotating machinery with imbalanced data](https://doi.org/10.1088/1361-6501/ab2a2a), **Measurement Science and Technology**, 2019
-
+- [Enhanced generative adversarial networks for fault diagnosis of rotating machinery with imbalanced data](https://doi.org/10.1088/1361-6501/ab2a2a), **Measurement Science and Technology**, 2019  
   **Qi Li**, Liang Chen*, Changqing Shen* et al.
+
 
 
 ## 🔖PHM foundation model
