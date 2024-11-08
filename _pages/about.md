@@ -24,7 +24,7 @@ I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsingh
 - *Sep 2019 - Jun 2022*, M.Eng. in **Control Theory and Control Engineering** at Soochow University (SUDA), supervised by [Prof. Liang Chen](http://jdxy.suda.edu.cn/d1/f2/c14011a446962/page.htm) and [Prof. Changqing Shen](http://web.suda.edu.cn/cqshen/).
 - *Sep 2015 - Jun 2019*, B.Eng. in **Electrical Engineering** at SUDA.
 
-My research interests lie in the intersection of **trustworthy AI** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international AI conferences. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>470+</span></strong></a>. Feel free to reach out for collaboration opportunities!
+My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international AI conferences. I have published more than 100 papers at the top international journal with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>470+</span></strong></a>. Feel free to reach out for collaboration opportunities!
 
 # 🔥 News
 
@@ -35,43 +35,104 @@ My research interests lie in the intersection of **trustworthy AI** and **reliab
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TII 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 🔖Neural-symbolic Diagnosis
 
-[Transparent Operator Network: A Fully Interpretable Network Incorporating Learnable Wavelet Operator for Intelligent Fault Diagnosis](https://doi.org/10.1109/TII.2024.3366993)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">J. Manuf. Syst. 2024</div><img src='images/papers/DEN.png' alt="Deep Expert Network" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-**Qi Li**, Hao Li, Wencheng Hu, Shen Sun, Zhaoye Qin, Fulei Chu
+[Deep Expert Network: A Unified Method toward Knowledge-Informed Fault Diagnosis via Fully Interpretable Neuro-Symbolic AI](https://doi.org/10.1016/j.jmsy.2024.10.007)  
+**Qi Li**, Yuekai Liu, Shilin Sun, Zhaoye Qin, Fulei Chu  
 
-- This work introduces an interpretable method for industrial time series classification by integrating learnable wavelet operators. *(JCR Q1, Impact Factor: 12.3)*
+- Proposes a neuro-symbolic AI approach to fault diagnosis incorporating interpretable expert knowledge using a Deep Expert Network. *(JCR Q1, Impact Factor: 12.2)*  
+
+  </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TII 2024</div><img src='images/papers/TON.png' alt="Transparent Operator Network" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Transparent Operator Network: A Fully Interpretable Network Incorporating Learnable Wavelet Operator for Intelligent Fault Diagnosis](https://doi.org/10.1109/TII.2024.3366993)  
+**Qi Li**, Hua Li, Wenyang Hu, Shilin Sun, Zhaoye Qin, Fulei Chu  
+
+- This work introduces an interpretable method for industrial time series classification by integrating learnable wavelet operators. *(JCR Q1, Impact Factor: 12.3)*  
+
+  </div>
 </div>
 
-- [Cross-domain augmentation diagnosis: An adversarial domain-augmented generalization method for fault diagnosis under unseen working conditions](https://doi.org/10.1016/j.ress.2023.109171), **Reliab Eng Syst Saf**, 2023
+## 🔖Cross-domain Diagnosis
 
-  **Qi Li**, Lei Chen, Leyu Kong, Dong Wang, Ming Xia, Changqing Shen
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RESS 2023</div><img src='images/papers/CADA.png' alt="Cross-Domain Augmentation Diagnosis" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-  - This paper presents a domain generalization approach employing adversarial learning and data augmentation for robust industrial time series classification. *(JCR Q1, Impact Factor: 8.1)*
+[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://doi.org/10.1016/j.ress.2023.109171)  
+**Qi Li**, Liang Chen, Lin Kong, Dong Wang, Min Xia, Changqing Shen  
 
-- [Adversarial domain-invariant generalization: a generic domain-regressive framework for bearing fault diagnosis under unseen conditions](https://doi.org/10.1109/TII.2021.3117347), **IEEE Transactions on Industrial Informatics**, 2021
+- This paper presents a domain generalization approach employing adversarial learning and data augmentation for robust industrial time series classification. *(JCR Q1, Impact Factor: 9.4)*  
 
-  Liang Chen (Supervisor), **Qi Li**, Changqing Shen et al.
+  </div>
+</div>
 
-  - This publication outlines a domain generalization method utilizing adversarial learning, aimed at bearing fault diagnosis under unseen conditions. *(JCR Q1, Impact Factor: 12.3)*
 
-- [Knowledge mapping-based adversarial domain adaptation: A novel fault diagnosis method with high generalizability under variable working conditions](https://doi.org/10.1016/j.ymssp.2020.107023), **Mechanical Systems and Signal Processing**, 2021
 
-  **Qi Li**, Changqing Shen*, Liang Chen* et al.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TII. 2022</div><img src='images/papers/ADIG.jpg' alt="Adversarial Domain-Invariant Generalization" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-  - This study introduces a domain adaptation strategy using adversarial learning to enhance fault diagnosis under varied conditions. *(JCR Q1, Impact Factor: 8.4)*
+[Adversarial Domain-Invariant Generalization: A Generic Domain-Regressive Framework for Bearing Fault Diagnosis under Unseen Conditions](https://ieeexplore.ieee.org/document/9428592/)  
+**Chen Liang**, **Qi Li**, Changqing Shen, Jun Zhu, Dong Wang, Min Xia  
+
+- A generic domain-regressive framework for fault diagnosis using adversarial learning between feature extractors and domain classifiers, achieving robust diagnosis performance. *(JCR Q1, Impact Factor: 11.7, highly cited🌟)*  
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">MSSP. 2021</div><img src='images/papers/KMADA.jpg' alt="Knowledge Mapping-Based Adversarial Domain Adaptation" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Knowledge Mapping-Based Adversarial Domain Adaptation: A Novel Fault Diagnosis Method with High Generalizability under Variable Working Conditions](https://doi.org/10.1016/j.ymssp.2020.107095)  
+**Qi Li**, Changqing Shen, Liang Chen, Zhongkui Zhu  
+
+- Introduces a domain adaptation strategy using adversarial learning for improved generalizability in fault diagnosis across variable conditions. *(JCR Q1, Impact Factor: 7.9, highly cited🌟)*  
+
+  </div>
+</div>
 
 - [Enhanced generative adversarial networks for fault diagnosis of rotating machinery with imbalanced data](https://doi.org/10.1088/1361-6501/ab2a2a), **Measurement Science and Technology**, 2019
 
   **Qi Li**, Liang Chen*, Changqing Shen* et al.
 
-  - This research develops a data augmentation method leveraging generative models for efficient time series classification, especially for datasets with imbalanced classes. *(JCR Q3)*
+
+## 🔖PHM foundation model
+
+- TODO
 
 # 🎖 Honors and Awards
 
+- *2023*: Social Practice Scholarship of Tsinghua University
 - *2022*: Future Scholars Scholarship of Tsinghua University
 - *2021*: National Scholarship by Ministry of Education of China
 - *2021*: Outstanding Student Cadre of Jiangsu Province
@@ -84,14 +145,17 @@ My research interests lie in the intersection of **trustworthy AI** and **reliab
 
 # 📖 Education Background
 
-- *Sep 2022 - Present*, Ph.D. in Mechanical Engineering, Tsinghua University (THU), Supervisor: Prof. Zhaoye Qin
-- *Sep 2019 - Jun 2022*, M.E. in Control Theory and Control Engineering, Soochow University (SUDA), Supervisors: Prof. Liang Chen, Prof. Changqing Shen
-- *Sep 2015 - Jun 2019*, B.E. in Electrical Engineering, Soochow University (SUDA)
+- *2022.09 - Present*, Ph.D. in Mechanical Engineering, Tsinghua University (THU), Supervisor: Prof. Zhaoye Qin
+- *2019.09 - 2022.06*, M.E. in Control Theory and Control Engineering, Soochow University (SUDA), Supervisors: Prof. Liang Chen, Prof. Changqing Shen
+- *2015.09 - 2019.06*, B.E. in Electrical Engineering, Soochow University (SUDA)
 
 # 💬 Invited Talks
 
-- *Jul 2020*, IEEE INDIN 2020, Warwick, UK
-- *Jul 2018*, SDPC 2018, Xi'an, China
+- *2024.04*, Beijing AI PhD Student Forum, Beijing, China (2w viewers)
+- *2023.11*, PHM Conference, Hangzhou, Hangzhou, China
+- *2023.04*, Tsinghua University Department of Mechanical Engineering PhD Student Forum
+- *2020.07*, IEEE INDIN 2020, Warwick, UK
+- *2018.07*, SDPC 2018, Xi'an, China
 
 # 💻 Internships
 
@@ -115,12 +179,15 @@ My research interests lie in the intersection of **trustworthy AI** and **reliab
 
 # 🎙 Social Activities
 
+- *2023*：Volunteer at the IFToMM International Conference on Rotordynamics
 - *2019 - 2022*: Graduate monitor of the University of Mechanical and Electric Engineering, SUDA
-- *2021*: Interview by Student Union of Soochow University
-- *2019*: Delivered a speech at the opening ceremony of SUDA as a graduate student representative
+- *2021*: Interview by Student Union of Soochow University[Link](https://mp.weixin.qq.com/s/zW07Tp2uh0CkHzmfCAVnqw)
+- *2019*: Delivered a speech at the opening ceremony of SUDA as a graduate student representative [Link](https://mp.weixin.qq.com/s/HQSOWfekFaz2hYdh-4hvwA)
 
 # 📫 Contact
 
 - **Email**: liq22@mails.tsinghua.edu.cn
 - **ORCID**: [https://orcid.org/0000-0001-7105-2818](https://orcid.org/0000-0001-7105-2818)
+- **wechat**: 17777777
 - [**Curriculum Vitae**]
+- Qi Li | Last updated: 2024.11
