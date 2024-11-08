@@ -69,7 +69,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
 </div>
 
-## 🔖Cross-domain Diagnosis
+## 🔖Neural-symbolic Diagnosis
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -83,8 +83,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 **Qi Li**, Yuekai Liu, Shilin Sun, Zhaoye Qin, Fulei Chu  
 
 - Proposes a neuro-symbolic AI approach to fault diagnosis incorporating interpretable expert knowledge using a Deep Expert Network. *(JCR Q1, Impact Factor: 12.2)*  
-  </div>
-</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -98,8 +97,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 **Qi Li**, Hua Li, Wenyang Hu, Shilin Sun, Zhaoye Qin, Fulei Chu  
 
 - This work introduces an interpretable method for industrial time series classification by integrating learnable wavelet operators. *(JCR Q1, Impact Factor: 12.3)*  
-  </div>
-</div>
+
 
 ## 🔖 Cross-domain Diagnosis
 
@@ -115,8 +113,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 **Qi Li**, Liang Chen, Lin Kong, Dong Wang, Min Xia, Changqing Shen  
 
 - This paper presents a domain generalization approach employing adversarial learning and data augmentation for robust industrial time series classification. *(JCR Q1, Impact Factor: 9.4)*  
-  </div>
-</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -130,8 +127,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 **Chen Liang**, **Qi Li**, Changqing Shen, Jun Zhu, Dong Wang, Min Xia  
 
 - A generic domain-regressive framework for fault diagnosis using adversarial learning between feature extractors and domain classifiers, achieving robust diagnosis performance. *(JCR Q1, Impact Factor: 11.7, highly cited🌟)*  
-  </div>
-</div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -145,8 +141,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 **Qi Li**, Changqing Shen, Liang Chen, Zhongkui Zhu  
 
 - Introduces a domain adaptation strategy using adversarial learning for improved generalizability in fault diagnosis across variable conditions. *(JCR Q1, Impact Factor: 7.9, highly cited🌟)*  
-  </div>
-</div>
+
 
 - [Enhanced generative adversarial networks for fault diagnosis of rotating machinery with imbalanced data](https://doi.org/10.1088/1361-6501/ab2a2a), **Measurement Science and Technology**, 2019  
   **Qi Li**, Liang Chen*, Changqing Shen* et al.
