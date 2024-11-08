@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Li Qi's Homepage"
-description              : "Ph.D. Candidate in Mechanical Engineering at Tsinghua University."
+description              : "Tsinghua University."
 repository               : "liq22/liq22.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=vCabh8oAAAAJ"
   email            : "liq22@mails.tsinghua.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Qi-Li-155"
   uri              :

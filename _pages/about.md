@@ -28,18 +28,10 @@ My research interests lie in the intersection of **trustworthy AI** and **reliab
 
 # 🔥 News
 
-- *May 2022*: Received the Future Scholars Scholarship from THU.
-- *May 2022*: Awarded as Outstanding Graduate Student of Jiangsu Province.
-- *Oct 2021*: Received an offer from THU.
-- *May 2021*: One paper accepted by IEEE TII.
-- *May 2021*: Awarded as Outstanding Student Cadre of Jiangsu Province.
-- *Mar 2021*: Best 3-minute thesis presentation at UWA.
-- *Jan 2021*: One paper published in MSSP.
-- *Oct 2020*: Received National Scholarship by the Ministry of Education of China.
-- *Jul 2020*: One paper accepted by IEEE INDIN 2020.
-- *Sep 2019*: One paper accepted by MST.
-- *Sep 2019*: Delivered a speech at the opening ceremony of SUDA as a graduate student representative.
-- *Sep 2019*: Awarded as Outstanding Graduate of Soochow University.
+- *2024.11*: A paper accepted by JMS.
+- *2024.02*: A paper accepted by IEEE TII.
+- *2022.05*: Received the Future Scholars Scholarship from THU.
+
 
 # 📝 Selected Publications
 
