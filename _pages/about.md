@@ -197,7 +197,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 - **wechat**: 17777777
 - [**Curriculum Vitae**]
 
-## 👻 Friend Linkss
+## 👻 Friend Links
 
 
 # 👓 Qi Li | Last updated: 2024.11
