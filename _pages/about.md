@@ -190,10 +190,14 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 📫 Contact
 
+## 🎈 Myself
+
 - **Email**: liq22@mails.tsinghua.edu.cn
 - **ORCID**: [https://orcid.org/0000-0001-7105-2818](https://orcid.org/0000-0001-7105-2818)
 - **wechat**: 17777777
 - [**Curriculum Vitae**]
+
+## 👻 Blogroll
 
 ~~~ 
 Qi Li | Last updated: 2024.11
