@@ -24,7 +24,7 @@ I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsingh
 - *Sep 2019 - Jun 2022*, M.Eng. in **Control Theory and Control Engineering** at Soochow University (SUDA), supervised by [Prof. Liang Chen](http://jdxy.suda.edu.cn/d1/f2/c14011a446962/page.htm) and [Prof. Changqing Shen](http://web.suda.edu.cn/cqshen/).
 - *Sep 2015 - Jun 2019*, B.Eng. in **Electrical Engineering** at SUDA.
 
-My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals. I have published papers at the top international journal with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>470+</span></strong></a>. Feel free to reach out for collaboration opportunities!
+My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>470+</span></strong></a>. Feel free to reach out for collaboration opportunities!
 
 # 🔥 News
 
@@ -180,6 +180,14 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 - *IEEE Transactions on Industrial Informatics (TII)*
 - *Measurement*
 - *Measurement Science and Technology (MST)*
+
+# 💴 Horizontal project
+
+- XX
+- XX
+- XX
+- XX
+- XX
 
 # 🎙 Social Activities
 
