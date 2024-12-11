@@ -20,14 +20,16 @@ redirect_from:
 
 I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsinghua University**, supervised by Prof. [Zhaoye Qin](https://www.me.tsinghua.edu.cn/info/1127/1763.htm). My previous experiences include:
 
+- *Apr 2025 - Sep 2025*, Visiting scholar at **Yale University **, co-worked with [Lu Lu](https://lugroup.yale.edu).
 - *Apr 2022 - Sep 2022*, Research intern at **AIR, Tsinghua University**, supervised by [Yuanchun Li](https://air.tsinghua.edu.cn/info/1046/1195.htm).
 - *Sep 2019 - Jun 2022*, M.Eng. in **Control Theory and Control Engineering** at Soochow University (SUDA), supervised by [Prof. Liang Chen](http://jdxy.suda.edu.cn/d1/f2/c14011a446962/page.htm) and [Prof. Changqing Shen](http://web.suda.edu.cn/cqshen/).
 - *Sep 2015 - Jun 2019*, B.Eng. in **Electrical Engineering** at SUDA.
 
-My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>470+</span></strong></a>. Feel free to reach out for collaboration opportunities!
+My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>. Feel free to reach out for collaboration opportunities!
 
 # 🔥 News
 
+- *2024.12*: Science and Technology Award of Chinese Society of Vibration Engineering.
 - *2024.11*: A paper accepted by JMS.
 - *2024.02*: A paper accepted by IEEE TII.
 - *2022.05*: Received the Future Scholars Scholarship from THU.
@@ -149,6 +151,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 📖 Educations
 
+- *2025.04 - 2025.09*, Visiting scholar in Statistics and Data Science, Yale University, advisor: Lu Lu.
 - *2022.09 - Present*, Ph.D. in Mechanical Engineering, Tsinghua University (THU), Supervisor: Prof. Zhaoye Qin
 - *2019.09 - 2022.06*, M.E. in Control Theory and Control Engineering, Soochow University (SUDA), Supervisors: Prof. Liang Chen, Prof. Changqing Shen
 - *2015.09 - 2019.06*, B.E. in Electrical Engineering, Soochow University (SUDA)
@@ -183,11 +186,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 💴 Horizontal project
 
-- XX
-- XX
-- XX
-- XX
-- XX
+- TODO adfer graduate.
 
 # 🎙 Social Activities
 
