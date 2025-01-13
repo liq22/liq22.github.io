@@ -20,11 +20,7 @@ redirect_from:
 
 I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsinghua University**, supervised by Prof. [Zhaoye Qin](https://www.me.tsinghua.edu.cn/info/1127/1763.htm). My previous experiences include:
 
-<<<<<<< HEAD
-- *Apr 2025 - Sep 2025*, Visiting scholar at **Yale University**, co-worked with [Lu Lu](https://lugroup.yale.edu).
-=======
 - *Apr 2025 - Sep 2025*, Visiting scholar at **Yale University**，collaborating with [Lu Lu](https://lugroup.yale.edu).
->>>>>>> 86c10b1ba2eac9263b22fd7b2335def02f7ac28f
 - *Apr 2022 - Sep 2022*, Research intern at **AIR, Tsinghua University**, supervised by [Yuanchun Li](https://air.tsinghua.edu.cn/info/1046/1195.htm).
 - *Sep 2019 - Jun 2022*, M.Eng. in **Control Theory and Control Engineering** at Soochow University (SUDA), supervised by [Prof. Liang Chen](http://jdxy.suda.edu.cn/d1/f2/c14011a446962/page.htm) and [Prof. Changqing Shen](http://web.suda.edu.cn/cqshen/).
 - *Sep 2015 - Jun 2019*, B.Eng. in **Electrical Engineering** at SUDA.
