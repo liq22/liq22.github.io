@@ -179,6 +179,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 🖥 Journal Reviews
 
+- *IEEE Transactions on Industrial Informatics (TII)*
 - *Mechanical Systems and Signal Processing (MSSP)*
 - *IEEE Transactions on Industrial Electronics (TIE)*
 - *IEEE Transactions on Instrumentation and Measurement (TIM)*
@@ -207,6 +208,6 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 - [**Curriculum Vitae**]
 
 ## 👻 Friend Links
-
+- [Haifeng Xu](https://xyyxhf.github.io)
 
 # 👓 Qi Li | Last updated: 2024.11
