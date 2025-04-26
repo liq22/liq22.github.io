@@ -28,7 +28,7 @@ I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsingh
 My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>. Feel free to reach out for collaboration opportunities!
 
 # 🔥 News
-
+- *2025.04*: A paper accepted by Information fusion
 - *2025.01*: A paper accepted by ADVEI
 - *2025.01*: The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
 - *2024.12*: Science and Technology Award of Chinese Society of Vibration Engineering.
