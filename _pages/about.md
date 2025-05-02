@@ -166,6 +166,8 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 </div>
 </div>
 
+- I also lead a open-source project called [PHMBench](https://github.com/PHMBench) and contribute to various PHM research initiatives. 
+
 # 🎖 Honors and Awards
 
 - *2025*: The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
