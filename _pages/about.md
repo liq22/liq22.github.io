@@ -55,6 +55,8 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 - Introduces a transparent information fusion network with self-organized neural-symbolic nodes, enabling fully explainable multi-source fault diagnosis through knowledge-informed decision-making. *(JCR Q1, Impact Factor: 8.0)*  
 
+</div>
+</div>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
