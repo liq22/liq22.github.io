@@ -20,12 +20,12 @@ redirect_from:
 
 I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsinghua University**, supervised by Prof. [Zhaoye Qin](https://www.me.tsinghua.edu.cn/info/1127/1763.htm). My previous experiences include:
 
-- *Apr 2025 - Sep 2025*, Visiting scholar at **Yale University**，collaborating with [Lu Lu](https://lugroup.yale.edu).
+- *Apr 2025 - Sep 2025*, Visiting scholar at **Yale University** working with [Lu Lu](https://lugroup.yale.edu).
 - *Apr 2022 - Sep 2022*, Research intern at **AIR, Tsinghua University**, supervised by [Yuanchun Li](https://air.tsinghua.edu.cn/info/1046/1195.htm).
 - *Sep 2019 - Jun 2022*, M.Eng. in **Control Theory and Control Engineering** at Soochow University (SUDA), supervised by [Prof. Liang Chen](http://jdxy.suda.edu.cn/d1/f2/c14011a446962/page.htm) and [Prof. Changqing Shen](http://web.suda.edu.cn/cqshen/).
 - *Sep 2015 - Jun 2019*, B.Eng. in **Electrical Engineering** at SUDA.
 
-My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>500+</span></strong></a>. Feel free to reach out for collaboration opportunities!
+My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>. Feel free to reach out for collaboration opportunities!
 
 # 🔥 News
 - *2025.04*: A paper accepted by Information fusion
@@ -44,7 +44,21 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">J. Manuf. Syst. 2024</div>
+      <div class="badge">ADVIE 2025</div>
+      <img src='images/papers/TIFN.png' alt="Transparent information fusion network" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156)  
+**Qi Li**, Lichang Qin, Haifeng Xu, Qijian Lin, Zhaoye Qin, Fulei Chu  
+
+- Introduces a transparent information fusion network with self-organized neural-symbolic nodes, enabling fully explainable multi-source fault diagnosis through knowledge-informed decision-making. *(JCR Q1, Impact Factor: 8.0)*  
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">JMS 2024</div>
       <img src='images/papers/DEN.png' alt="Deep Expert Network" width="100%">
     </div>
   </div>
@@ -129,17 +143,31 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 </div>
 
 
-- [Enhanced Generative Adversarial Networks for Fault Diagnosis of Rotating Machinery with Imbalanced Data](https://doi.org/10.1088/1361-6501/ab2a2a), **Measurement Science and Technology**, 2019  
-  **Qi Li**, Liang Chen*, Changqing Shen* et al.
-
 
 
 ## 🔖PHM foundation model
 
-- TODO
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Information Fusion 2025</div>
+      <img src='images/papers/HSE.png' alt="HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models]  
+**Qi Li**, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu  
+
+- Propose a novel Heterogeneous Signal Embedding (HSE) module that projects heterogeneous signals into a unified signal space, offering seamless integration with existing IFD architectures as a plug-and-play solution. *(JCR Q1, Impact Factor: 14.4)*  
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
+- *2025*: The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
+- *2024*: Science and Technology Award of Chinese Society of Vibration Engineering
 - *2023*: Social Practice Scholarship of Tsinghua University
 - *2022*: Future Scholars Scholarship of Tsinghua University
 - *2021*: National Scholarship by Ministry of Education of China
@@ -179,6 +207,8 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 🖥 Journal Reviews
 
+- *Information Fusion (IF)*
+- *Advanced Engineering Informatics (AEI)*
 - *IEEE Transactions on Industrial Informatics (TII)*
 - *Mechanical Systems and Signal Processing (MSSP)*
 - *IEEE Transactions on Industrial Electronics (TIE)*
@@ -205,9 +235,9 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 - **Email**: liq22@mails.tsinghua.edu.cn
 - **ORCID**: [https://orcid.org/0000-0001-7105-2818](https://orcid.org/0000-0001-7105-2818)
 - **wechat**: 17777777
-- [**Curriculum Vitae**]
+<!-- - [**Curriculum Vitae**] -->
 
 ## 👻 Friend Links
 - [Haifeng Xu](https://xyyxhf.github.io)
 
-# 👓 Qi Li | Last updated: 2024.11
+# 👓 Qi Li | Last updated: 2025.4
