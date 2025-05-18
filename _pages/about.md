@@ -39,7 +39,34 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 📝 Publications
 
-## 🔖Neural-symbolic Diagnosis
+<details>
+<summary><h2 style="display: inline-block">🔖PHM foundation model</h2></summary>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Information Fusion 2025</div>
+      <img src='images/papers/HSE.png' alt="HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models]  
+**Qi Li**, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu  
+
+- Propose a novel Heterogeneous Signal Embedding (HSE) module that projects heterogeneous signals into a unified signal space, offering seamless integration with existing IFD architectures as a plug-and-play solution. *(JCR Q1, Impact Factor: 14.4)*  
+
+</div>
+</div>
+
+- I also lead a open-source project called [PHMBench](https://github.com/PHMBench) and contribute to various PHM research initiatives. 
+
+</details>
+
+<details> 
+<summary><h2 style="display: inline-block">🔖Neural-symbolic Diagnosis</h2></summary>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -91,7 +118,12 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 </div>
 </div>
 
-## 🔖 Cross-domain Diagnosis
+</details>
+
+
+<details>
+<summary><h2 style="display: inline-block">🔖 Cross-domain Diagnosis</h2></summary>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -143,30 +175,11 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 </div>
 </div>
+</details>
 
 
 
 
-## 🔖PHM foundation model
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Information Fusion 2025</div>
-      <img src='images/papers/HSE.png' alt="HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models]  
-**Qi Li**, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu  
-
-- Propose a novel Heterogeneous Signal Embedding (HSE) module that projects heterogeneous signals into a unified signal space, offering seamless integration with existing IFD architectures as a plug-and-play solution. *(JCR Q1, Impact Factor: 14.4)*  
-
-</div>
-</div>
-
-- I also lead a open-source project called [PHMBench](https://github.com/PHMBench) and contribute to various PHM research initiatives. 
 
 # 🎖 Honors and Awards
 
@@ -223,7 +236,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 💴 Horizontal project
 
-- TODO after graduation.
+- TODO.
 
 # 🎙 Social Activities
 
@@ -237,11 +250,28 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 ## 🎈 Myself
 
 - **Email**: liq22@mails.tsinghua.edu.cn
-- **ORCID**: [https://orcid.org/0000-0001-7105-2818](https://orcid.org/0000-0001-7105-2818)
-- **wechat**: 17777777
+<!-- - **ORCID**: [https://orcid.org/0000-0001-7105-2818](https://orcid.org/0000-0001-7105-2818)
+- **wechat**: 17777777 -->
 <!-- - [**Curriculum Vitae**] -->
 
 ## 👻 Friend Links
 - [Haifeng Xu](https://xyyxhf.github.io)
+
+
+
+<h2 align="left">✨ Visitors</h2>
+
+<div align="center">
+  
+![Nixie Counter](https://moe-counter.glitch.me/get/@liq22.github.io?theme=nixietube-1)
+
+</div>
+
+
+<div align="center">
+<a href="https://clustrmaps.com/site/zuDpJ" title="Visit tracker">
+  <img src="//clustrmaps.com/map_v2.png?d=zuDpJ5etKfqfgxUfT9DtytaR54mqkvdYGnihWXUaA_Q&cl=ffffff&w=a" alt="Visitor Map">
+</a>
+</div>
 
 # 👓 Qi Li | Last updated: 2025.4
