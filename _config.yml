@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qi Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/LQ.png"  # 修改为新头像的文件名
   bio              : "Ph.D. Candidate in Mechanical Engineering at Tsinghua University."
   location         : "Beijing, China"
   employer         :
