@@ -52,10 +52,11 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models]  
+[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models](https://doi.org/10.1016/j.inffus.2025.103277)  
 **Qi Li**, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu  
 
 - Propose a novel Heterogeneous Signal Embedding (HSE) module that projects heterogeneous signals into a unified signal space, offering seamless integration with existing IFD architectures as a plug-and-play solution. *(JCR Q1, Impact Factor: 14.4)*  
+- [Code](https://github.com/liq22/ISFM_HSE)
 
 </div>
 </div>
