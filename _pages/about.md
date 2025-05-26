@@ -185,6 +185,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 # 🎖 Honors and Awards
 
 - *2025*: The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
+- *2024*: Tsinghua Scholarship for Overseas Graduate Studies
 - *2024*: Science and Technology Award of Chinese Society of Vibration Engineering
 - *2023*: Social Practice Scholarship of Tsinghua University
 - *2022*: Future Scholars Scholarship of Tsinghua University
