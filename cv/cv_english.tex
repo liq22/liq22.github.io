@@ -54,6 +54,7 @@
 
 \usepackage{titlesec}
 \usepackage{xcolor}
+\usepackage{graphicx}
 \usepackage{tikz}
 
 \setlength{\parindent}{0pt}
@@ -72,9 +73,9 @@
 
 % Change PDF Meta Info here
 \hypersetup{
-    pdftitle={John Doe - CV - English},
-    pdfauthor={John Doe},
-    pdfsubject={CV}
+    pdftitle={Qi Li - CV - English},
+    pdfauthor={Qi Li},
+    pdfsubject={Academic CV}
 }
 
 % Paper size
@@ -89,15 +90,15 @@
     nomarginpar
 }
 
-% Background Color of the Sidebar Column
-\definecolor{sidebg}{cmyk}{1, 0.02, 0, 0.56}
-% Background Color of the Main Column
-\definecolor{mainbg}{cmyk}{0, 0, 0.07, 0.04}
+% Background Color of the Sidebar Column - Tsinghua Purple
+\definecolor{sidebg}{RGB}{102, 45, 145}  % 清华紫 #662D91
+% Background Color of the Main Column - Pure White
+\definecolor{mainbg}{RGB}{255, 255, 255}
 
-% Text Color of the Main Column
-\definecolor{maintext}{cmyk}{1, 0.02, 0, 0.8}
-% Text Color of the Sidebar Column
-\definecolor{sidetext}{cmyk}{0, 0, 0.07, 0.04}
+% Text Color of the Main Column - Dark Gray
+\definecolor{maintext}{RGB}{51, 51, 51}
+% Text Color of the Sidebar Column - White for contrast
+\definecolor{sidetext}{RGB}{255, 255, 255}
 
 \pagecolor{mainbg}
 
@@ -108,17 +109,21 @@
         \color{sidetext}
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         % YOUR NAME, PRONOUNS, OCCUPATION(s), AND HEADSHOT
-        {\bfseries\scshape\HUGE John} \\
-        {\bfseries\scshape\Huge Doe} \qquad {they/them}
+        {\bfseries\scshape\HUGE 李} \\
+        {\bfseries\scshape\Huge 奇} \quad {\normalfont\Large Qi Li}
         \vspace{.3cm} \\
-        Demo Subject, \\
-        Placeholder 
+        Ph.D. Candidate, \\
+        Mechanical Engineering \\
+        \textbf{600+ Citations} 
         \\
+        % Include photo only if the file exists to avoid fatal errors
+        \IfFileExists{../images/LQ.png}{
         \begin{center}
             \begin{tikzpicture}
-            \clip (0,0) circle (3cm) node[anchor=center] {\includegraphics[width=6cm]{portait_template.jpg}}; 
+            \clip (0,0) circle (3cm) node[anchor=center] {\includegraphics[width=6cm]{../images/LQ.png}}; 
             \end{tikzpicture}
         \end{center}
+        }{}
         \vspace{.3cm}
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         % YOUR PERSONAL INFROMATION
@@ -126,10 +131,11 @@
         \addcontentsline{toc}{section}{Personal info}
         \section*{\large Personal info}
         \begin{tabularx}{\textwidth}{cY}
-            \faStarOfLife{} & 01/01/1970 \\
-            \faPhone{}      & +1-234-871-555-9 \\
-            \faEnvelope{}   & \href{mailto:john@example.com}{john@example.com} \\
-            \faMapMarker{}  & 1600 Pennsylvania Ave, Washington DC, United States \\
+            \faGraduationCap{} & Ph.D. Student \\
+            \faUniversity{} & Tsinghua University \\
+            \faEnvelope{}   & \href{mailto:liq22@tsinghua.org.cn}{liq22@tsinghua.org.cn} \\
+            \faMapMarker{}  & Beijing, China \\
+            \faIdCard{}     & ORCID: 0000-0001-7105-2818 \\
         \end{tabularx}
         \vspace{.3cm} \\
         \rule{\linewidth}{0.4pt} \\
@@ -139,10 +145,10 @@
         \addcontentsline{toc}{section}{Links}
         \section*{\large Links}
         \begin{tabular}{cl}
-        %    \faCode{}     & \href{https://example.com}{example.com}
-            \faGithub{}   & \href{https://github.com/example}{/example} \\
-            \faLinkedin{} & \href{https://www.linkedin.com/in/john-doe/}{/john-doe} \\
-            \faXing{}     & \href{https://www.xing.com/profile/John_Doe7373990/cv}{/John\_Doe7373990} \\
+            \faGithub{}     & \href{https://github.com/liq22}{/liq22} \\
+            \faGraduationCap{} & \href{https://scholar.google.com/citations?user=vCabh8oAAAAJ}{Google Scholar} \\
+            \faResearchgate{} & \href{https://www.researchgate.net/profile/Qi-Li-155}{ResearchGate} \\
+            \faTv{}        & \href{https://space.bilibili.com/1864908149}{Bilibili} \\
         \end{tabular}
         \vspace{10pt} \\
         \rule{\linewidth}{0.4pt} \\
@@ -151,14 +157,15 @@
         % Add/Remove as seen fit, Icons: https://packages.oth-regensburg.de/ctan/fonts/fontawesome5/doc/fontawesome5.pdf
         \phantomsection{}
         \addcontentsline{toc}{section}{Skills}
-        \section*{\large Skills}
+        \section*{\large Research \& Skills}
         \begin{tabularx}{\textwidth}{cY}
-            \faCode{}        & C++, C, Python, Bash, PHP, Javascript, C\#, Java, Kotlin, MySQL, PostgreSQL, Visual Basic, R \\
-            \faPen*{}        & \LaTeX, HTML, CSS \\
-            \faFont{}        & \{MS, Libre, GSuite\} Office, Adobe Acrobat \\
-            \faCogs{}        & Linux, Windows, macOS \\
-            \faLaptopCode{}  & IDE 1, IDE 2, IDE 3 \\
-            \faToolbox{}     & Tool 1, Tool 2 
+            \faBrain{}       & Trustworthy AI, Foundation Models, Reliable PHM \\
+            \faCode{}        & Python, MATLAB, PyTorch, TensorFlow, Scikit-learn \\
+            \faPen*{}        & \LaTeX, Markdown, Academic Writing \\
+            \faLanguage{}    & English (CSC: 104/130), Chinese (Native) \\
+            \faDesktop{}     & Linux, Windows, HPC Clusters \\
+            \faLaptopCode{}  & Jupyter, VS Code, PyCharm \\
+            \faToolbox{}     & Git, Docker, MLflow, Weights\&Biases 
         \end{tabularx}
         \vspace{1pt} \\
         \rule{\linewidth}{0.4pt}
@@ -175,14 +182,14 @@
     \begin{minipage}[t][\dimexpr\textheight-2\fboxrule-2\fboxsep\relax][t]{\dimexpr0.6\textwidth-2\fboxrule-2\fboxsep\relax}
         \color{maintext}
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-        % WORK EXPERIENCE
+        % RESEARCH EXPERIENCE
         \phantomsection{}
-        \addcontentsline{toc}{section}{Work Experience}
-        \section*{\scshape\Large Work Experience \rule{\linewidth}{0.4pt}}
+        \addcontentsline{toc}{section}{Research Experience}
+        \section*{\scshape\Large Research Experience \rule{\linewidth}{0.4pt}}
 %
-        {\large \textbf{United Staats Government}} \\ 
-        {{\fontseries{medium}\selectfont Full-time, President}} \\
-        {\scshape\fontseries{light}\selectfont\footnotesize Jan 2016 \textendash{} Nov 2020} 
+        {\large \textbf{Yale University}} \\ 
+        {{\fontseries{medium}\selectfont Visiting Scholar, Statistics and Data Science}} \\
+        {\scshape\fontseries{light}\selectfont\footnotesize Apr 2025 \textendash{} Sep 2025} 
         \begin{itemize}
             \setlength{\itemsep}{-3pt}
             \item Do stuff
@@ -193,9 +200,9 @@
             \item Other Task
         \end{itemize}
 %
-        {\large \textbf{McKienze Ltd}} \\
-        {{\fontseries{medium}\selectfont Part-time, Thieve}} \\
-        {\scshape\fontseries{light}\selectfont\footnotesize Oct 2013 \textendash{} Nov 2016} 
+        {\large \textbf{AIR, Tsinghua University}} \\
+        {{\fontseries{medium}\selectfont Research Intern}} \\
+        {\scshape\fontseries{light}\selectfont\footnotesize Apr 2022 \textendash{} Sep 2022} 
         \begin{itemize}
             \setlength{\itemsep}{-3pt}
             \item Do stuff
@@ -214,9 +221,9 @@
             \item rhoncus est pellentesque elit ullamcorper dignissim
         \end{itemize}
 %
-        {\large \textbf{ACME Corp}}\\
-        {{\fontseries{medium}\selectfont Traineeship, Occupation}}\\
-        {\scshape\fontseries{light}\selectfont\footnotesize Aug 2010 \textendash{} Oct 2013} 
+        {\large \textbf{Tsinghua University}}\\
+        {{\fontseries{medium}\selectfont Ph.D. Research Assistant}}\\
+        {\scshape\fontseries{light}\selectfont\footnotesize Sep 2022 \textendash{} Present} 
         \begin{itemize}
             \setlength{\itemsep}{-4pt}
             \item massa tempor nec feugiat nisl pretium fusce id
@@ -227,26 +234,26 @@
         \addcontentsline{toc}{section}{Education}
         \section*{\scshape\Large Education \rule{\linewidth}{0.4pt}}
 %
-        {\large \textbf{Management \& Business Administration, Sample University\\ (Graduate Degree)}} \\
-        {\scshape\fontseries{light}\selectfont\footnotesize Springfield \qquad Oct 2013 \textendash{} Nov 2016} \\
-        {Degree: Diploma of Business} \\[1ex]
-        {Grade: 2.6} \\[1ex]
-        {\footnotesize Subsidiary subject: Psychology} \\
-        {\footnotesize In-depth study: Thievery} \\
-        {\footnotesize Thesis subject: ultrices gravida dictum fusce} \\[2ex]
+        {\large \textbf{Ph.D. Mechanical Engineering, Tsinghua University\\ (Doctoral Degree)}} \\
+        {\scshape\fontseries{light}\selectfont\footnotesize Beijing \qquad Sep 2022 \textendash{} Present} \\
+        {Supervisor: Prof. Zhaoye Qin} \\[1ex]
+        {Research Focus: Trustworthy AI, Foundation Models, PHM} \\[1ex]
+        {\footnotesize Publications: 8+ papers in JCR Q1 journals} \\
+        {\footnotesize Citations: 600+ (Google Scholar)} \\
+        {\footnotesize Awards: Future Scholars Scholarship, CAST Youth Talent Program} \\[2ex]
 
-        {\large \textbf{Potenti nullam \textendash{} sodales ut, Some School\\ (Professional Training with A-Levels)}} \\
-        {\scshape\fontseries{light}\selectfont\footnotesize Miami \qquad Sep 2010 \textendash{} Sep 2013} \\
-        {Degrees: Potenti nullam \& A-Levels\\ (General higher education entrance qualification)} \\[1ex]
-        {Vocational Grades: interdisciplinary 1.7, subject-specific 1.1} \\
-        {Grammar School Grade: 3.4} \\[1ex]
-        {\footnotesize Project subject: sit amet nulla facilisi} \\[2ex]
+        {\large \textbf{M.Eng. Control Theory and Control Engineering, Soochow University\\ (Master's Degree)}} \\
+        {\scshape\fontseries{light}\selectfont\footnotesize Suzhou \qquad Sep 2019 \textendash{} Jun 2022} \\
+        {Supervisors: Prof. Liang Chen \& Prof. Changqing Shen} \\[1ex]
+        {Outstanding Graduate, National Scholarship recipient} \\
+        {Research: Domain adaptation for fault diagnosis} \\[1ex]
+        {\footnotesize Published 3 highly-cited papers in top-tier journals} \\[2ex]
 
-        {\large \textbf{School Education, Middle school}} \\
-        {\scshape\fontseries{light}\selectfont\footnotesize New York \qquad Sep 2005 \textendash{} Jun 2010} \\
-        {Degree: Secondary school leaving certificate} \\[1ex]
-        {Grade: 2.5} \\[1ex]
-        {\footnotesize Elective Courses: Chemistry, Engineering, Art} \\
+        {\large \textbf{B.Eng. Electrical Engineering, Soochow University}} \\
+        {\scshape\fontseries{light}\selectfont\footnotesize Suzhou \qquad Sep 2015 \textendash{} Jun 2019} \\
+        {Outstanding Graduate of Soochow University} \\[1ex]
+        {Graduate Representative Speaker at Opening Ceremony} \\[1ex]
+        {\footnotesize Foundation in electrical systems and control engineering} \\
         % \\
         \vfill%
         {\hfill\small\fontseries{extralight}\selectfont Page \thepage of \pageref{LastPage}\hfill}
@@ -261,15 +268,15 @@
         \color{maintext}
         % \vspace{.6cm}
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-        % PROJECTS
+        % PUBLICATIONS
         \phantomsection
-        \addcontentsline{toc}{section}{Projects}
-        \section*{\scshape\Large Projects \rule{\linewidth}{0.4pt}}
+        \addcontentsline{toc}{section}{Publications}
+        \section*{\scshape\Large Selected Publications \rule{\linewidth}{0.4pt}}
         \begin{justify}
         \setlength{\parindent}{0pt}
-        {\large \textbf{Quis blandit turpis}} \\
+        {\large \textbf{HSE: A Plug-and-Play Module for Unified Fault Diagnosis}} \\
         {\scshape\fontseries{light}\selectfont\footnotesize Acme Corp \qquad 2017} \\
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt praesent semper feugiat nibh sed pulvinar. Tristique nulla aliquet enim tortor at auctor. \\[1ex]
+        \textbf{Qi Li}, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu. Propose a novel HSE module that projects heterogeneous signals into a unified signal space for seamless integration with existing fault diagnosis architectures. \\[1ex]
         Skill 1, Skill 2, Skill 3 \\
 
         {\large \textbf{Lacus laoreet non}} \\
@@ -313,8 +320,8 @@
         % \vspace{.5cm}
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         % YOUR NAME AND PREFERED PRONOUS AGAIN AS HEADER
-        {\bfseries\scshape\HUGE John} \\
-        {\bfseries\scshape\Huge Doe} \qquad {they/them}
+        {\bfseries\scshape\HUGE 李} \\
+        {\bfseries\scshape\Huge 奇} \quad {\normalfont\Large Qi Li}
         \vspace{.3cm} \\
         %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         % LANGUAGES
