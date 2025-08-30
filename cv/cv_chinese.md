@@ -1,6 +1,42 @@
-`<div align="center">`
-`<img src="portait.jpg" alt="李奇" width="100" style="border-radius: 50%; border: 2px solid #662D91;"/><h1>`李奇`</h1>`
+<style>
+@media print {
+    .toc, .table-of-contents, nav, .navigation { display: none !important; }
+}
+body { 
+    font-family: 'Times New Roman', 'SimSun', serif; 
+    font-size: 16px; 
+    line-height: 1.3; 
+    margin: 0; 
+    padding: 12px;
+}
+h1 { font-size: 24px; margin: 8px 0; text-align: center; }
+h2 { font-size: 20px; margin: 6px 0 4px 0; }
+h3 { font-size: 18px; margin: 4px 0 2px 0; font-weight: bold; }
+table { 
+    margin: 6px auto; 
+    font-size: 15px; 
+    border-collapse: collapse; 
+    width: 90%;
+    border: none;
+}
+th, td { 
+    padding: 3px 8px; 
+    text-align: center; 
+    border: none;
+}
+th {
+    font-weight: bold;
+}
+.header-line { border-bottom: 2px solid #662D91; margin: 3px 0; }
+.compact { margin: 2px 0; font-size: 15px; }
+img { display: block; margin: 6px auto; }
+li { margin: 1px 0; font-size: 15px; }
+ul { margin: 4px 0; padding-left: 16px; }
+</style>
 
+<div align="center">
+<img src="portait.jpg" alt="李奇" width="100" style="border-radius: 50%; border: 2px solid #662D91;"/>
+<h1>李奇</h1>
 <div class="compact">清华大学机械工程博士研究生 | 机械装备智能诊断技术 | 总被引用 700+ 次</div>
 </div>
 
@@ -19,11 +55,11 @@
 
 <div class="header-line"></div>
 
-| **学历** | **院校** |   **专业**   | **时间** |                  **成果**                  |
-| :------------: | :------------: | :----------------: | :------------: | :----------------------------------------------: |
-|      博士      |    清华大学    |      机械工程      |  2022.9-至今  | 导师: 秦朝烨教授, 8+篇JCR Q1论文, 未来学者奖学金 |
-|      硕士      |    苏州大学    | 控制理论与控制工程 | 2019.9-2022.6 | 导师: 陈良/沈长青教授, 3篇ESI高被引, 国家奖学金 |
-|      学士      |    苏州大学    | 电气工程及其自动化 | 2015.9-2019.6 |           优秀毕业生, 开学典礼新生代表           |
+| **学历** | **院校** |   **专业**   | **时间** | **导师** |
+| :------------: | :------------: | :----------------: | :------------: | :-------------: |
+|      博士      |    清华大学    |      机械工程      |  2022.9-至今  |   秦朝烨教授   |
+|      硕士      |    苏州大学    | 控制理论与控制工程 | 2019.9-2022.6 | 陈良/沈长青教授 |
+|      学士      |    苏州大学    | 电气工程及其自动化 | 2015.9-2019.6 |      陈良教授      |
 
 ## 访问学者经历
 
