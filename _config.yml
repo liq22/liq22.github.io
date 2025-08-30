@@ -92,6 +92,11 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - cv/**
+  - plan/**
+  - .claude/**
+  - CLAUDE.md
+
 keep_files:
   - .git
   - .svn
