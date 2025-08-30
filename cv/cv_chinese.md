@@ -1,42 +1,7 @@
-<style>
-body { 
-    font-family: 'Times New Roman', 'SimSun', serif; 
-    font-size: 11px; 
-    line-height: 1.2; 
-    margin: 0; 
-    padding: 15px;
-}
-h1 { font-size: 18px; margin: 8px 0; text-align: center; }
-h2 { font-size: 14px; margin: 6px 0 4px 0; }
-h3 { font-size: 12px; margin: 4px 0 2px 0; font-weight: bold; }
-table { 
-    margin: 5px auto; 
-    font-size: 10px; 
-    border-collapse: collapse; 
-    width: 90%;
-    border-top: 1.5px solid black;
-    border-bottom: 1.5px solid black;
-}
-th, td { 
-    padding: 3px 8px; 
-    text-align: center; 
-    border: none;
-}
-th {
-    border-bottom: 1px solid black;
-    font-weight: bold;
-}
-.header-line { border-bottom: 2px solid #662D91; margin: 3px 0; }
-.compact { margin: 2px 0; font-size: 10px; }
-img { display: block; margin: 5px auto; }
-</style>
+`<div align="center">`
+`<img src="portait.jpg" alt="李奇" width="100" style="border-radius: 50%; border: 2px solid #662D91;"/><h1>`李奇`</h1>`
 
-<div align="center">
-<img src="portait.jpg" alt="李奇" width="80" style="border-radius: 50%; border: 2px solid #662D91;"/>
-<h1>李奇</h1>
-<div class="compact">清华大学机械工程博士研究生 |
-机械装备智能诊断技术 | 
-总被引用 700+ 次</div>
+<div class="compact">清华大学机械工程博士研究生 | 机械装备智能诊断技术 | 总被引用 700+ 次</div>
 </div>
 
 ## 个人基本信息
@@ -69,27 +34,28 @@ img { display: block; margin: 5px auto; }
 | 耶鲁大学统计与数据科学系 | 2025.4-2025.9 |   Lu Lu 教授   |  物理信息神经网络、基础模型  |
 |  清华大学人工智能研究院  | 2022.4-2022.9 |  李元春 教授  | AI时间序列分析、工业机器学习 |
 
-## 与主要荣誉
+## 研究领域
 
 <div class="header-line"></div>
 
-|     荣誉奖项     |             年份             | 荣誉奖项 | 荣誉奖项 |
-| :--------------: | :--------------------------: | :------: | -------- |
-| 智能监测健康管理 | 首批科协青年托举人才（博士） |   2024   |          |
-|   可信人工智能   |  振动工程协会科学技术二等奖  |   2024   |          |
-| 物理信息基础模型 |    清华大学社会实践奖学金    |   2023   |          |
-|                  |    清华大学未来学者奖学金    |   2022   |          |
-|                  |          国家奖学金          |   2021   |          |
-|                  |          国家奖学金          |   2020   |          |
+- **智能监测健康管理：** 设备健康状态监测与预测维护
+- **可信人工智能：** 可解释AI、神经符号推理
+- **物理信息基础模型：** 物理约束深度学习、基础模型
+
+## 主要荣誉
+
+<div class="header-line"></div>
+
+- **2024年：** 首批科协青年托举人才（博士）
+- **2024年：** 振动工程协会科学技术二等奖
+- **2023年：** 清华大学社会实践奖学金
+- **2022年：** 清华大学未来学者奖学金
+- **2021年：** 国家奖学金
+- **2020年：** 国家奖学金
 
 ---
 
-<div style="page-break-before: always;"></div>
-
-## 研究领域
-
-- 智能监测健康管理|可信人工智能|物理信息基础模型
-- 
+<!-- <div style="page-break-before: always;"></div> -->
 
 ## 代表性研究
 
@@ -126,18 +92,33 @@ img { display: block; margin: 5px auto; }
 
 ## 学术服务
 
+<div class="header-line"></div>
+
+- Information Fusion 期刊审稿
+- IEEE Transactions on Industrial Informatics 期刊审稿
+- Mechanical Systems and Signal Processing 期刊审稿
+- Advanced Engineering Informatics 期刊审稿
+- IEEE Transactions on Industrial Electronics 期刊审稿
+- IEEE Transactions on Instrumentation and Measurement 期刊审稿
+- Measurement Science and Technology 期刊审稿
+
 ## 项目应用
+
+<div class="header-line"></div>
+
+- 某型号飞机减振降噪分析
+- 水电站智能运维技术
+- PHMBench开源项目组负责人
 
 ## 社会活动
 
 <div class="header-line"></div>
 
-|             **学术服务**             |    **项目应用**    |      **社会活动**      |
-| :-----------------------------------------: | :----------------------: | :--------------------------: |
-|             Information Fusion             |  某型号飞机减振降噪分析  | 苏州大学开学典礼新生代表发言 |
-|     IEEE Trans. Industrial Informatics     |    水电站智能运维技术    |  苏州大学机电学院研究生班长  |
-|  Mechanical Systems and Signal Processing  | PHMBench开源项目组负责人 |       IFToMM会议志愿者       |
-|      Advanced Engineering Informatics      |                          |                              |
-|     IEEE Trans. Industrial Electronics     |                          |                              |
-| IEEE Trans. Instrumentation and Measurement |                          |                              |
-|     Measurement Science and Technology     |                          |                              |
+- 苏州大学开学典礼新生代表发言
+- 苏州大学机电学院研究生班长
+- IFToMM会议志愿者
+
+<div align="center" style="margin-top: 10px;">
+<img src="QRcode.png" alt="个人主页二维码" width="80" style="border: 1px solid #662D91;"/>
+<div style="font-size: 11px;">扫码访问个人主页</div>
+</div>
