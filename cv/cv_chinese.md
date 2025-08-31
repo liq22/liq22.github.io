@@ -32,24 +32,71 @@ th {
 img { display: block; margin: 6px auto; }
 li { margin: 1px 0; font-size: 15px; }
 ul { margin: 4px 0; padding-left: 16px; }
+.profile-container { 
+    margin-bottom: 15px;
+}
+.profile-header {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.profile-header h1 { 
+    font-size: 22px; 
+    margin: 8px 0 4px 0; 
+}
+.profile-header .compact { 
+    font-size: 11px; 
+    line-height: 1.2; 
+    margin: 0;
+}
+.info-section {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.info-photo {
+    flex: 0 0 120px;
+}
+.info-photo img { 
+    width: 120px; 
+    height: 120px; 
+}
+.info-content {
+    flex: 1;
+}
+.info-content h2 { 
+    margin-top: 0;
+    font-size: 20px;
+}
+.info-content table { 
+    margin-left: 0;
+    width: 100%;
+}
 </style>
 
-<div align="center">
-<img src="portait.jpg" alt="李奇" width="100" style="border-radius: 50%; border: 2px solid #662D91;"/>
-<h1>李奇</h1>
-<div class="compact">清华大学机械工程博士研究生 | 机械装备智能诊断技术 | 总被引用 700+ 次</div>
-</div>
-
-## 个人基本信息
-
-<div class="header-line"></div>
+<div class="profile-container">
+  <div class="profile-header">
+    <h1>李奇</h1>
+    <div class="compact">清华大学机械工程博士研究生 | 机械装备智能诊断技术 | 总被引用 700+ 次</div>
+  </div>
+  
+  <div class="info-section">
+    <div class="info-photo">
+      <img src="portait.jpg" alt="李奇" style="border-radius: 50%; border: 2px solid #662D91;"/>
+    </div>
+    
+    <div class="info-content">
+      <h2>个人基本信息</h2>
+      <div class="header-line"></div>
 
 | **基本信息** |          | **联系方式** |                      |
-| :----------------: | :-------: | :----------------: | :-------------------: |
+| :------------: | :-------: | :------------: | :-------------------: |
 |      🎂 生日      | 1997年7月 |      📞 手机      |      18896782803      |
 |     🏳️ 民族     |   汉族   |     ✉️ 邮箱     | liq22@tsinghua.org.cn |
 |      📍 籍贯      | 浙江温州 |      🌐 主页      |    liq22.github.io    |
 |   🏛️ 政治面貌   | 中共党员 |      🆔 ORCID      |  0000-0001-7105-2818  |
+    </div>
+  </div>
+</div>
 
 ## 教育与研究经历
 
@@ -59,7 +106,7 @@ ul { margin: 4px 0; padding-left: 16px; }
 | :------------: | :------------: | :----------------: | :------------: | :-------------: |
 |      博士      |    清华大学    |      机械工程      |  2022.9-至今  |   秦朝烨教授   |
 |      硕士      |    苏州大学    | 控制理论与控制工程 | 2019.9-2022.6 | 陈良/沈长青教授 |
-|      学士      |    苏州大学    | 电气工程及其自动化 | 2015.9-2019.6 |      陈良教授      |
+|      学士      |    苏州大学    | 电气工程及其自动化 | 2015.9-2019.6 |    陈良教授    |
 
 ## 访问学者经历
 
@@ -83,9 +130,13 @@ ul { margin: 4px 0; padding-left: 16px; }
 <div class="header-line"></div>
 
 - **2024年：** 首批科协青年托举人才（博士）
+- **2024年：** 清华大学海外访学基金
 - **2024年：** 振动工程协会科学技术二等奖
 - **2023年：** 清华大学社会实践奖学金
 - **2022年：** 清华大学未来学者奖学金
+- **2022年：** 江苏省优秀研究生干部
+- **2022年：** 江苏省优秀硕士论文
+- **2022年：** 江苏省优秀毕业生
 - **2021年：** 国家奖学金
 - **2020年：** 国家奖学金
 
@@ -138,7 +189,7 @@ ul { margin: 4px 0; padding-left: 16px; }
 - IEEE Transactions on Instrumentation and Measurement 期刊审稿
 - Measurement Science and Technology 期刊审稿
 
-## 项目应用
+## 工程应用
 
 <div class="header-line"></div>
 
