@@ -25,15 +25,20 @@ I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsingh
 - *Sep 2019 - Jun 2022*, M.Eng. in **Control Theory and Control Engineering** at Soochow University (SUDA), supervised by [Prof. Liang Chen](http://jdxy.suda.edu.cn/d1/f2/c14011a446962/page.htm) and [Prof. Changqing Shen](http://web.suda.edu.cn/cqshen/).
 - *Sep 2015 - Jun 2019*, B.Eng. in **Electrical Engineering** at SUDA.
 
-My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>. Feel free to reach out for collaboration opportunities!
+My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>1200+</span></strong></a>. Feel free to reach out for collaboration opportunities!
 
 # 🔥 News
-- *2025.04*: A paper accepted by Information fusion
+- *2026.04*: Named an Academic Rising Star of Tsinghua Mechanical Engineering.
+- *2025.12*: Named a Shuimu Scholar.
+- *2025.11*: Served as a PHMAP session chair.
+- *2025.09*: Received the National Scholarship.
+- *2025.04*: A paper accepted by Information Fusion.
 - *2025.01*: A paper accepted by ADVEI
 - *2025.01*: The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
 - *2024.12*: Science and Technology Award of Chinese Society of Vibration Engineering.
 - *2024.11*: A paper accepted by JMS.
 - *2024.02*: A paper accepted by IEEE TII.
+- *2023.02*: A paper accepted by RESS
 - *2022.05*: Received the Future Scholars Scholarship from THU.
 
 
@@ -184,6 +189,9 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 🎖 Honors and Awards
 
+- *2026*: Academic Rising Star of Tsinghua Mechanical Engineering
+- *2025*: Shuimu Scholar
+- *2025*: National Scholarship by Ministry of Education of China
 - *2025*: The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
 - *2024*: Tsinghua Scholarship for Overseas Graduate Studies
 - *2024*: Science and Technology Award of Chinese Society of Vibration Engineering
