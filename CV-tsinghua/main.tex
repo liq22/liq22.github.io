@@ -1,0 +1,112 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Qi Li - English Postdoctoral CV
+% Based on the CV-tsinghua template and resume.cls in this directory.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{resume}
+
+\usepackage[dvipsnames]{xcolor}
+\usepackage[left=0.45in,top=0.35in,right=0.45in,bottom=0.35in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{array}
+
+\definecolor{TsinghuaPurple}{cmyk}{0.58,0.90,0,0}
+\renewenvironment{rSection}[1]{
+\sectionskip
+\textcolor{TsinghuaPurple}{\MakeUppercase{#1}}
+\sectionlineskip
+\hrule
+\begin{list}{}{\setlength{\leftmargin}{0em}}
+\item[]
+}{
+\end{list}
+}
+
+\newcommand{\cvitem}[1]{\item #1}
+\newcommand{\entry}[4]{\textbf{#1} \hfill #2\\#3 \hfill \textit{#4}\vspace{0.25em}}
+\newcommand{\pubitem}[2]{\item #1 #2}
+
+\name{Qi Li}
+\address{Postdoctoral Researcher, Tsinghua University}
+\address{\href{mailto:Liq22@tsinghua.org.cn}{Liq22@tsinghua.org.cn} \\ \href{https://liq22.github.io/}{https://liq22.github.io/}}
+\address{Google Scholar citations: 1200+ \\ H-index: 14}
+
+\begin{document}
+\small
+\sloppy
+
+\begin{rSection}{Research Profile}
+Researcher in intelligent fault diagnosis, prognostics and health management (PHM), and trustworthy industrial AI. My work develops data-efficient, explainable, and generalizable diagnosis methods for industrial equipment under variable and unseen operating conditions. Current research integrates neuro-symbolic reasoning, signal-processing knowledge, physics-informed foundation models, and industrial vibration-signal analysis to build transferable PHM systems and open benchmarks.
+\end{rSection}
+
+\begin{rSection}{Appointments and Education}
+\entry{Postdoctoral Researcher}{Jun. 2026 -- Present}{Department of Automation, Tsinghua University}{Working with Prof. Xiao He}
+
+\entry{Ph.D. in Mechanical Engineering}{Sept. 2022 -- Jun. 2026}{Tsinghua University}{Advisor: Prof. Zhaoye Qin}
+
+\entry{Visiting Researcher}{Apr. 2025 -- Sept. 2025}{Yale University, Statistics and Data Science}{Host: Prof. Lu Lu}
+
+\entry{M.S. in Control Theory and Control Engineering}{Sept. 2019 -- Jun. 2022}{Soochow University}{Advisors: Prof. Liang Chen and Prof. Changqing Shen}
+
+\entry{B.S. in Electrical Engineering and Automation}{Sept. 2015 -- Jun. 2019}{Soochow University}{}
+\end{rSection}
+
+\begin{rSection}{Research Focus}
+\begin{itemize}[leftmargin=1.2em,itemsep=0.15em,topsep=0.15em]
+\cvitem{\textbf{Trustworthy PHM and explainable diagnosis:} neuro-symbolic and interpretable architectures for fault diagnosis; evidence chains from signal-processing knowledge, symbolic regression, and self-organized neural-symbolic nodes.}
+\cvitem{\textbf{Industrial big data under domain shift:} cross-domain adaptation, domain generalization, and augmentation for fault diagnosis under unseen working conditions and heterogeneous industrial data.}
+\cvitem{\textbf{Physics-informed industrial foundation models:} physics-informed embeddings, backbones, and task modules for multi-sensor, multi-model, and multi-task PHM.}
+\cvitem{\textbf{Industrial AI agents and decision support:} multi-agent signal-processing workflows and large multimodal foundation models for industrial vibration-signal interpretation and maintenance-oriented decision support.}
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Selected Awards and Honours}
+\begin{itemize}[leftmargin=1.2em,itemsep=0.1em,topsep=0.15em]
+\cvitem{Selected for the Shuimu Scholar Program, Tsinghua University, 2026.}
+\cvitem{Distinguished Graduate, Tsinghua University, 2026.}
+\cvitem{Merit Student Award, Tsinghua University, 2026.}
+\cvitem{Academic Rising Star Award, Department of Mechanical Engineering, Tsinghua University, 2026.}
+\cvitem{National Scholarship, 2025; National Scholarship, 2021 and 2020.}
+\cvitem{Young Elite Scientists Sponsorship Program by CAST, Ph.D. Special Plan, 2024.}
+\cvitem{Second Prize, Science and Technology Award, Chinese Society for Vibration Engineering, 2024.}
+\cvitem{Jiangsu Province Excellent Master's Thesis Award, 2023; Jiangsu Province Outstanding Graduate, 2022.}
+\cvitem{Tsinghua University Future Scholar Scholarship, 2022; Tsinghua University Scholarship for Social Practice, 2023.}
+\cvitem{Best 3MT Presentation, The University of Western Australia, 2021.}
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Representative Publications}
+\begin{enumerate}[leftmargin=1.6em,itemsep=0.18em,topsep=0.15em]
+\pubitem{\textbf{Q. Li}, X. Zhang, J. Huang, H. He, F. Zhang$^{*}$, Z. Qin$^{*}$, F. Chu.}{``VSLLaVA: a pipeline of large multimodal foundation model for industrial vibration signal analysis.'' \textit{Advanced Engineering Informatics}, 2026. SCI; CAS Q1 Top; IF: 11.5.}
+\pubitem{\textbf{Q. Li}, B. Chen, Q. Chen, X. Li, Z. Qin, F. Chu.}{``HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models.'' \textit{Information Fusion}, 2025, 123: 103277. IF: 15.5.}
+\pubitem{\textbf{Q. Li}, L. Qin, H. Xu, Q. Lin, Z. Qin, F. Chu.}{``Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes.'' \textit{Advanced Engineering Informatics}, 2025, 65: 103156. IF: 9.9.}
+\pubitem{\textbf{Q. Li}, Y. Liu, S. Sun, Z. Qin, F. Chu.}{``Deep expert network: A unified method toward knowledge-informed fault diagnosis via fully interpretable neuro-symbolic AI.'' \textit{Journal of Manufacturing Systems}, 2024, 77: 652--661. IF: 14.2.}
+\pubitem{\textbf{Q. Li}, H. Li, W. Hu, S. Sun, Z. Qin, F. Chu.}{``Transparent Operator Network: A Fully Interpretable Network Incorporating Learnable Wavelet Operator for Intelligent Fault Diagnosis.'' \textit{IEEE Transactions on Industrial Informatics}, 2024, doi: 10.1109/TII.2024.3366993. IF: 9.9.}
+\pubitem{\textbf{Q. Li}, L. Chen, L. Kong, D. Wang, M. Xia, C. Shen.}{``Cross-domain augmentation diagnosis: An adversarial domain-augmented generalization method for fault diagnosis under unseen working conditions.'' \textit{Reliability Engineering \& System Safety}, 2023, 234: 109171. IF: 11.0; ESI Highly Cited.}
+\pubitem{L. Chen, \textbf{Q. Li}, C. Shen et al.}{``Adversarial domain-invariant generalization: a generic domain-regressive framework for bearing fault diagnosis under unseen conditions.'' \textit{IEEE Transactions on Industrial Informatics}, 2021/2022. IF: 9.9; ESI Highly Cited.}
+\pubitem{\textbf{Q. Li}, C. Shen, L. Chen et al.}{``Knowledge mapping-based adversarial domain adaptation: A novel fault diagnosis method with high generalizability under variable working conditions.'' \textit{Mechanical Systems and Signal Processing}, 2021, 147. IF: 8.9; ESI Highly Cited.}
+\pubitem{\textbf{Q. Li}, X. Zhang, W. Hu et al.}{``Autonomous signal-processing large language model agents for mechanical vibration signals.'' \textit{Journal of Vibration Engineering}, 2025.}
+\pubitem{\textbf{Q. Li}, L. Chen, C. Shen et al.}{``Enhanced generative adversarial networks for fault diagnosis of rotating machinery with imbalanced data.'' \textit{Measurement Science and Technology}.}
+\end{enumerate}
+\end{rSection}
+
+\begin{rSection}{Research Outputs, Service, and Leadership}
+\begin{itemize}[leftmargin=1.2em,itemsep=0.15em,topsep=0.15em]
+\cvitem{Led and contributed to open-source repositories for trustworthy diagnosis systems, PHM benchmarks, and industrial vibration-signal analysis in the large-model era.}
+\cvitem{Reviewer for \textit{Information Fusion}, \textit{IEEE Transactions on Industrial Informatics}, \textit{Mechanical Systems and Signal Processing}, \textit{Advanced Engineering Informatics}, \textit{IEEE Transactions on Industrial Electronics}, \textit{IEEE Transactions on Instrumentation and Measurement}, \textit{Neural Networks}, and \textit{Engineering Applications of Artificial Intelligence}.}
+\cvitem{Served as PHMAP 2025 session chair.}
+\cvitem{New Student Representative at the Graduate Opening Ceremony; volunteer at the IFToMM International Conference on Rotor Dynamics; invited speaker at the Doctoral Forum of the Department of Mechanical Engineering and the Beijing AI PhD Student Forum.}
+\end{itemize}
+\end{rSection}
+
+\begin{rSection}{Engineering Applications}
+\begin{itemize}[leftmargin=1.2em,itemsep=0.15em,topsep=0.15em]
+\cvitem{Aircraft vibration and noise reduction: contributed to sensor layout optimization, vibration monitoring, signal-processing assessment, and correlation-based evaluation for large-space aircraft structures.}
+\cvitem{Hydropower intelligent operation and maintenance: contributed to modeling, simulation, fault-tree analysis, and trustworthy online monitoring for industrial cyber-physical systems.}
+\cvitem{Industrial foundation models: developed physics-informed data generation, fine-tuning, evaluation, and interaction workflows for domain-specialized large models.}
+\end{itemize}
+\end{rSection}
+
+\end{document}

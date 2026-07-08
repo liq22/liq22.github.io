@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -18,8 +17,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
 
-I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsinghua University**, supervised by Prof. [Zhaoye Qin](https://www.me.tsinghua.edu.cn/info/1127/1763.htm). My previous experiences include:
+I am a **postdoctoral researcher** in the Department of Automation at **Tsinghua University**, working with Prof. [Xiao He](https://www.au.tsinghua.edu.cn/info/1092/1527.htm). My previous experiences include:
 
+- *Sep 2022 - Jun 2026*, Ph.D. in **Mechanical Engineering** at **Tsinghua University**, supervised by Prof. [Zhaoye Qin](https://www.me.tsinghua.edu.cn/info/1127/1763.htm) in the group of Prof.[Fulei Chu](https://www.researchgate.net/profile/Fulei-Chu-3).
 - *Apr 2025 - Sep 2025*, Visiting scholar at **Yale University** working with [Lu Lu](https://lugroup.yale.edu).
 - *Apr 2022 - Sep 2022*, Research intern at **AIR, Tsinghua University**, supervised by [Yuanchun Li](https://air.tsinghua.edu.cn/info/1046/1195.htm).
 - *Sep 2019 - Jun 2022*, M.Eng. in **Control Theory and Control Engineering** at Soochow University (SUDA), supervised by [Prof. Liang Chen](http://jdxy.suda.edu.cn/d1/f2/c14011a446962/page.htm) and [Prof. Changqing Shen](http://web.suda.edu.cn/cqshen/).
@@ -28,8 +28,12 @@ I am a **Ph.D. student** in the Department of Mechanical Engineering at **Tsingh
 My research interests including **trustworthy AI**, **foundation model** and **reliable prognostic and health management (PHM)**. I have published numerous papers in top-tier international journals with total <a href='https://scholar.google.com/citations?user=vCabh8oAAAAJ'>google scholar citations <strong><span id='total_cit'>1200+</span></strong></a>. Feel free to reach out for collaboration opportunities!
 
 # 🔥 News
+
+- *2026*: VSLLaVA was published in Advanced Engineering Informatics.
+- *2026.06*: Received the Distinguished Graduate honor from Tsinghua University.
+- *2026.06*: Joined the Department of Automation at Tsinghua University as a postdoctoral researcher working with Prof. [Xiao He](https://www.au.tsinghua.edu.cn/info/1092/1527.htm).
 - *2026.04*: Named an Academic Rising Star of Tsinghua Mechanical Engineering.
-- *2025.12*: Named a Shuimu Scholar.
+- *2025.12*: Received the Shuimu Scholar fellowship.
 - *2025.11*: Served as a PHMAP session chair.
 - *2025.09*: Received the National Scholarship.
 - *2025.04*: A paper accepted by Information Fusion.
@@ -41,12 +45,27 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 - *2023.02*: A paper accepted by RESS
 - *2022.05*: Received the Future Scholars Scholarship from THU.
 
-
 # 📝 Publications
 
 <details>
 <summary><h2 style="display: inline-block">🔖PHM foundation model</h2></summary>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Advanced Engineering Informatics 2026</div>
+      <img src='images/papers/VSLLAVA.png' alt="VSLLaVA: a pipeline of large multimodal foundation model for industrial vibration signal analysis" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+VSLLaVA: a pipeline of large multimodal foundation model for industrial vibration signal analysis
+**Qi Li**, Xinran Zhang, Jinfeng Huang, Hongliang He, Feibin Zhang\*, Zhaoye Qin\*, Fulei Chu
+
+- Published in *Advanced Engineering Informatics*, 2026. *(SCI, CAS Q1 Top, Impact Factor: 11.5)*
+
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -57,10 +76,9 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models](https://doi.org/10.1016/j.inffus.2025.103277)  
-**Qi Li**, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu  
+[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models](https://doi.org/10.1016/j.inffus.2025.103277)**Qi Li**, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu
 
-- Propose a novel Heterogeneous Signal Embedding (HSE) module that projects heterogeneous signals into a unified signal space, offering seamless integration with existing IFD architectures as a plug-and-play solution. *(JCR Q1, Impact Factor: 14.4)*  
+- Propose a novel Heterogeneous Signal Embedding (HSE) module that projects heterogeneous signals into a unified signal space, offering seamless integration with existing IFD architectures as a plug-and-play solution. *(JCR Q1, Impact Factor: 14.4)*
 - [Code](https://github.com/liq22/ISFM_HSE)
 
 </div>
@@ -73,7 +91,6 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 <details> 
 <summary><h2 style="display: inline-block">🔖Neural-symbolic Diagnosis</h2></summary>
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -83,10 +100,9 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156)  
-**Qi Li**, Lichang Qin, Haifeng Xu, Qijian Lin, Zhaoye Qin, Fulei Chu  
+[Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156)**Qi Li**, Lichang Qin, Haifeng Xu, Qijian Lin, Zhaoye Qin, Fulei Chu
 
-- Introduces a transparent information fusion network with self-organized neural-symbolic nodes, enabling fully explainable multi-source fault diagnosis through knowledge-informed decision-making. *(JCR Q1, Impact Factor: 8.0)*  
+- Introduces a transparent information fusion network with self-organized neural-symbolic nodes, enabling fully explainable multi-source fault diagnosis through knowledge-informed decision-making. *(JCR Q1, Impact Factor: 8.0)*
 
 </div>
 </div>
@@ -99,13 +115,38 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Deep Expert Network: A Unified Method toward Knowledge-Informed Fault Diagnosis via Fully Interpretable Neuro-Symbolic AI](https://doi.org/10.1016/j.jmsy.2024.10.007)  
-**Qi Li**, Yuekai Liu, Shilin Sun, Zhaoye Qin, Fulei Chu  
 
-- Proposes a neuro-symbolic AI approach to fault diagnosis incorporating interpretable expert knowledge using a Deep Expert Network. *(JCR Q1, Impact Factor: 12.2)*  
+
+
+
+
+
+
+
+
+
+
+
+JMS 2024
+
+
+![Deep Expert Network](images/papers/DEN.png)
+
+
+
+
+
+
+
+
+[Deep Expert Network: A Unified Method toward Knowledge-Informed Fault Diagnosis via Fully Interpretable Neuro-Symbolic AI](https://doi.org/10.1016/j.jmsy.2024.10.007)**Qi Li**, Yuekai Liu, Shilin Sun, Zhaoye Qin, Fulei Chu
+
+- Proposes a neuro-symbolic AI approach to fault diagnosis incorporating interpretable expert knowledge using a Deep Expert Network. *(JCR Q1, Impact Factor: 12.2)*
 
 </div>
 </div>
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -116,20 +157,18 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Transparent Operator Network: A Fully Interpretable Network Incorporating Learnable Wavelet Operator for Intelligent Fault Diagnosis](https://doi.org/10.1109/TII.2024.3366993)  
-**Qi Li**, Hua Li, Wenyang Hu, Shilin Sun, Zhaoye Qin, Fulei Chu  
+[Transparent Operator Network: A Fully Interpretable Network Incorporating Learnable Wavelet Operator for Intelligent Fault Diagnosis](https://doi.org/10.1109/TII.2024.3366993)**Qi Li**, Hua Li, Wenyang Hu, Shilin Sun, Zhaoye Qin, Fulei Chu
 
-- This work introduces an interpretable method for industrial time series classification by integrating learnable wavelet operators. *(JCR Q1, Impact Factor: 12.3)*  
+- This work introduces an interpretable method for industrial time series classification by integrating learnable wavelet operators. *(JCR Q1, Impact Factor: 12.3)*
 
 </div>
 </div>
+
 
 </details>
 
-
 <details>
 <summary><h2 style="display: inline-block">🔖 Cross-domain Diagnosis</h2></summary>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -140,13 +179,13 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://doi.org/10.1016/j.ress.2023.109171)  
-**Qi Li**, Liang Chen, Lin Kong, Dong Wang, Min Xia, Changqing Shen  
+[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://doi.org/10.1016/j.ress.2023.109171)**Qi Li**, Liang Chen, Lin Kong, Dong Wang, Min Xia, Changqing Shen
 
-- This paper presents a domain generalization approach employing adversarial learning and data augmentation for robust industrial time series classification. *(JCR Q1, Impact Factor: 9.4)*  
+- This paper presents a domain generalization approach employing adversarial learning and data augmentation for robust industrial time series classification. *(JCR Q1, Impact Factor: 9.4)*
 
 </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -157,13 +196,13 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Adversarial Domain-Invariant Generalization: A Generic Domain-Regressive Framework for Bearing Fault Diagnosis under Unseen Conditions](https://ieeexplore.ieee.org/document/9428592/)  
-**Chen Liang**, **Qi Li**, Changqing Shen, Jun Zhu, Dong Wang, Min Xia  
+[Adversarial Domain-Invariant Generalization: A Generic Domain-Regressive Framework for Bearing Fault Diagnosis under Unseen Conditions](https://ieeexplore.ieee.org/document/9428592/)**Chen Liang**, **Qi Li**, Changqing Shen, Jun Zhu, Dong Wang, Min Xia
 
-- A generic domain-regressive framework for fault diagnosis using adversarial learning between feature extractors and domain classifiers, achieving robust diagnosis performance. *(JCR Q1, Impact Factor: 11.7, highly cited🌟)*  
+- A generic domain-regressive framework for fault diagnosis using adversarial learning between feature extractors and domain classifiers, achieving robust diagnosis performance. *(JCR Q1, Impact Factor: 11.7, highly cited🌟)*
 
 </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -174,10 +213,9 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Knowledge Mapping-Based Adversarial Domain Adaptation: A Novel Fault Diagnosis Method with High Generalizability under Variable Working Conditions](https://doi.org/10.1016/j.ymssp.2020.107095)  
-**Qi Li**, Changqing Shen, Liang Chen, Zhongkui Zhu  
+[Knowledge Mapping-Based Adversarial Domain Adaptation: A Novel Fault Diagnosis Method with High Generalizability under Variable Working Conditions](https://doi.org/10.1016/j.ymssp.2020.107095)**Qi Li**, Changqing Shen, Liang Chen, Zhongkui Zhu
 
-- Introduces a domain adaptation strategy using adversarial learning for improved generalizability in fault diagnosis across variable conditions. *(JCR Q1, Impact Factor: 7.9, highly cited🌟)*  
+- Introduces a domain adaptation strategy using adversarial learning for improved generalizability in fault diagnosis across variable conditions. *(JCR Q1, Impact Factor: 7.9, highly cited🌟)*
 
 </div>
 </div>
@@ -185,10 +223,10 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 
 
-
-
 # 🎖 Honors and Awards
 
+- *2026*: Distinguished Graduate, Tsinghua University
+- *2026*: Merit Student Award, Tsinghua University
 - *2026*: Academic Rising Star of Tsinghua Mechanical Engineering
 - *2025*: Shuimu Scholar
 - *2025*: National Scholarship by Ministry of Education of China
@@ -208,8 +246,9 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 
 # 📖 Educations
 
+- *2026.06 - Present*, Postdoctoral researcher in the Department of Automation, Tsinghua University, working with Prof. [Xiao He](https://www.au.tsinghua.edu.cn/info/1092/1527.htm).
 - *2025.04 - 2025.09*, Visiting scholar in Statistics and Data Science, Yale University, advisor: Lu Lu.
-- *2022.09 - Present*, Ph.D. in Mechanical Engineering, Tsinghua University (THU), Supervisor: Prof. Zhaoye Qin
+- *2022.09 - 2026.06*, Ph.D. in Mechanical Engineering, Tsinghua University (THU), Supervisor: Prof. Zhaoye Qin
 - *2019.09 - 2022.06*, M.E. in Control Theory and Control Engineering, Soochow University (SUDA), Supervisors: Prof. Liang Chen, Prof. Changqing Shen
 - *2015.09 - 2019.06*, B.E. in Electrical Engineering, Soochow University (SUDA)
 
@@ -245,9 +284,10 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 - *Measurement Science and Technology (MST)*
 
 # 🤔 Project
--  Vibration noise reduction for some aircrafts (key contributor)
--  Measurement the parameters for some aircrafts (key contributor)
--  I am also leading an open-source project group called [PHMBench](https://github.com/PHMBench) and contribute to various PHM research initiatives.
+
+- Vibration noise reduction for some aircrafts (key contributor)
+- Measurement the parameters for some aircrafts (key contributor)
+- I am also leading an open-source project group called [PHMBench](https://github.com/PHMBench) and contribute to various PHM research initiatives.
 
 # 🎙 Social Activities
 
@@ -263,16 +303,13 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 - **Email**: liq22@mails.tsinghua.edu.cn
 - **ORCID**: [0000-0001-7105-2818](https://orcid.org/0000-0001-7105-2818)
 
-
 <!-- 
 - **wechat**: 17777777
 - [**Curriculum Vitae**] 
 -->
 
 ## 👻 Friend Links
+
 - [Haifeng Xu](https://xyyxhf.github.io)
-
-
-
 
 # 👓 Qi Li | Last updated: 2025.4
