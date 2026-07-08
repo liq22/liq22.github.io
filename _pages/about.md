@@ -30,6 +30,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 # 🔥 News
 
 - *2026*: VSLLaVA was published in Advanced Engineering Informatics.
+- *2026*: Received the Merit Student Award, Tsinghua University.
 - *2026.06*: Received the Distinguished Graduate honor from Tsinghua University.
 - *2026.06*: Joined the Department of Automation at Tsinghua University as a postdoctoral researcher working with Prof. [Xiao He](https://www.au.tsinghua.edu.cn/info/1092/1527.htm).
 - *2026.04*: Named an Academic Rising Star of Tsinghua Mechanical Engineering.
@@ -60,6 +61,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
   <div class='paper-box-text' markdown="1">
 
 VSLLaVA: a pipeline of large multimodal foundation model for industrial vibration signal analysis
+
 **Qi Li**, Xinran Zhang, Jinfeng Huang, Hongliang He, Feibin Zhang\*, Zhaoye Qin\*, Fulei Chu
 
 - Published in *Advanced Engineering Informatics*, 2026. *(SCI, CAS Q1 Top, Impact Factor: 11.5)*
@@ -76,7 +78,9 @@ VSLLaVA: a pipeline of large multimodal foundation model for industrial vibratio
   </div>
   <div class='paper-box-text' markdown="1">
 
-[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models](https://doi.org/10.1016/j.inffus.2025.103277)**Qi Li**, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu
+[HSE: A Plug-and-Play Module for Unified Fault Diagnosis Foundation Models](https://doi.org/10.1016/j.inffus.2025.103277)
+
+**Qi Li**, Bojian Chen, Qitong Chen, Xuan Li, Zhaoye Qin, Fulei Chu
 
 - Propose a novel Heterogeneous Signal Embedding (HSE) module that projects heterogeneous signals into a unified signal space, offering seamless integration with existing IFD architectures as a plug-and-play solution. *(JCR Q1, Impact Factor: 14.4)*
 - [Code](https://github.com/liq22/ISFM_HSE)
@@ -100,7 +104,9 @@ VSLLaVA: a pipeline of large multimodal foundation model for industrial vibratio
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156)**Qi Li**, Lichang Qin, Haifeng Xu, Qijian Lin, Zhaoye Qin, Fulei Chu
+[Transparent information fusion network: An explainable network for multi-source bearing fault diagnosis via self-organized neural-symbolic nodes](https://doi.org/10.1016/j.aei.2025.103156)
+
+**Qi Li**, Lichang Qin, Haifeng Xu, Qijian Lin, Zhaoye Qin, Fulei Chu
 
 - Introduces a transparent information fusion network with self-organized neural-symbolic nodes, enabling fully explainable multi-source fault diagnosis through knowledge-informed decision-making. *(JCR Q1, Impact Factor: 8.0)*
 
@@ -115,31 +121,9 @@ VSLLaVA: a pipeline of large multimodal foundation model for industrial vibratio
   </div>
   <div class='paper-box-text' markdown="1">
 
+[Deep Expert Network: A Unified Method toward Knowledge-Informed Fault Diagnosis via Fully Interpretable Neuro-Symbolic AI](https://doi.org/10.1016/j.jmsy.2024.10.007)
 
-
-
-
-
-
-
-
-
-
-
-
-JMS 2024
-
-
-![Deep Expert Network](images/papers/DEN.png)
-
-
-
-
-
-
-
-
-[Deep Expert Network: A Unified Method toward Knowledge-Informed Fault Diagnosis via Fully Interpretable Neuro-Symbolic AI](https://doi.org/10.1016/j.jmsy.2024.10.007)**Qi Li**, Yuekai Liu, Shilin Sun, Zhaoye Qin, Fulei Chu
+**Qi Li**, Yuekai Liu, Shilin Sun, Zhaoye Qin, Fulei Chu
 
 - Proposes a neuro-symbolic AI approach to fault diagnosis incorporating interpretable expert knowledge using a Deep Expert Network. *(JCR Q1, Impact Factor: 12.2)*
 
@@ -157,7 +141,9 @@ JMS 2024
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Transparent Operator Network: A Fully Interpretable Network Incorporating Learnable Wavelet Operator for Intelligent Fault Diagnosis](https://doi.org/10.1109/TII.2024.3366993)**Qi Li**, Hua Li, Wenyang Hu, Shilin Sun, Zhaoye Qin, Fulei Chu
+[Transparent Operator Network: A Fully Interpretable Network Incorporating Learnable Wavelet Operator for Intelligent Fault Diagnosis](https://doi.org/10.1109/TII.2024.3366993)
+
+**Qi Li**, Hua Li, Wenyang Hu, Shilin Sun, Zhaoye Qin, Fulei Chu
 
 - This work introduces an interpretable method for industrial time series classification by integrating learnable wavelet operators. *(JCR Q1, Impact Factor: 12.3)*
 
@@ -179,7 +165,9 @@ JMS 2024
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://doi.org/10.1016/j.ress.2023.109171)**Qi Li**, Liang Chen, Lin Kong, Dong Wang, Min Xia, Changqing Shen
+[Cross-Domain Augmentation Diagnosis: An Adversarial Domain-Augmented Generalization Method for Fault Diagnosis under Unseen Working Conditions](https://doi.org/10.1016/j.ress.2023.109171)
+
+**Qi Li**, Liang Chen, Lin Kong, Dong Wang, Min Xia, Changqing Shen
 
 - This paper presents a domain generalization approach employing adversarial learning and data augmentation for robust industrial time series classification. *(JCR Q1, Impact Factor: 9.4)*
 
@@ -196,7 +184,9 @@ JMS 2024
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Adversarial Domain-Invariant Generalization: A Generic Domain-Regressive Framework for Bearing Fault Diagnosis under Unseen Conditions](https://ieeexplore.ieee.org/document/9428592/)**Chen Liang**, **Qi Li**, Changqing Shen, Jun Zhu, Dong Wang, Min Xia
+[Adversarial Domain-Invariant Generalization: A Generic Domain-Regressive Framework for Bearing Fault Diagnosis under Unseen Conditions](https://ieeexplore.ieee.org/document/9428592/)
+
+**Chen Liang**, **Qi Li**, Changqing Shen, Jun Zhu, Dong Wang, Min Xia
 
 - A generic domain-regressive framework for fault diagnosis using adversarial learning between feature extractors and domain classifiers, achieving robust diagnosis performance. *(JCR Q1, Impact Factor: 11.7, highly cited🌟)*
 
@@ -213,7 +203,9 @@ JMS 2024
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Knowledge Mapping-Based Adversarial Domain Adaptation: A Novel Fault Diagnosis Method with High Generalizability under Variable Working Conditions](https://doi.org/10.1016/j.ymssp.2020.107095)**Qi Li**, Changqing Shen, Liang Chen, Zhongkui Zhu
+[Knowledge Mapping-Based Adversarial Domain Adaptation: A Novel Fault Diagnosis Method with High Generalizability under Variable Working Conditions](https://doi.org/10.1016/j.ymssp.2020.107095)
+
+**Qi Li**, Changqing Shen, Liang Chen, Zhongkui Zhu
 
 - Introduces a domain adaptation strategy using adversarial learning for improved generalizability in fault diagnosis across variable conditions. *(JCR Q1, Impact Factor: 7.9, highly cited🌟)*
 
@@ -228,7 +220,7 @@ JMS 2024
 - *2026*: Distinguished Graduate, Tsinghua University
 - *2026*: Merit Student Award, Tsinghua University
 - *2026*: Academic Rising Star of Tsinghua Mechanical Engineering
-- *2025*: Shuimu Scholar
+- *2025*: Shuimu Scholar Fellowship
 - *2025*: National Scholarship by Ministry of Education of China
 - *2025*: The 2024 CAST Youth Talent Support Program - PhD Special Plan - CCF
 - *2024*: Tsinghua Scholarship for Overseas Graduate Studies
