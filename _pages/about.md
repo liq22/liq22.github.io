@@ -300,7 +300,7 @@ JMS 2024
 
 ## 🎈 Myself
 
-- **Email**: liq22@mails.tsinghua.edu.cn
+- **Email**: liq22@tsinghua.org.cn
 - **ORCID**: [0000-0001-7105-2818](https://orcid.org/0000-0001-7105-2818)
 
 <!-- 
@@ -308,8 +308,5 @@ JMS 2024
 - [**Curriculum Vitae**] 
 -->
 
-## 👻 Friend Links
 
-- [Haifeng Xu](https://xyyxhf.github.io)
-
-# 👓 Qi Li | Last updated: 2025.4
+# 👓 Qi Li | Last updated: 2026.07
