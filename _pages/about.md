@@ -32,7 +32,7 @@ My research interests including **trustworthy AI**, **foundation model** and **r
 - *2026*: VSLLaVA was published in Advanced Engineering Informatics.
 - *2026*: Received the Merit Student Award, Tsinghua University.
 - *2026.06*: Received the Distinguished Graduate honor from Tsinghua University.
-- *2026.06*: Joined the Department of Automation at Tsinghua University as a postdoctoral researcher working with Prof. [Xiao He](https://www.au.tsinghua.edu.cn/info/1092/1527.htm).
+- *2026.07*: Joined the Department of Automation at Tsinghua University as a postdoctoral researcher.
 - *2026.04*: Named an Academic Rising Star of Tsinghua Mechanical Engineering.
 - *2025.12*: Received the Shuimu Scholar fellowship.
 - *2025.11*: Served as a PHMAP session chair.
@@ -265,24 +265,33 @@ VSLLaVA: a pipeline of large multimodal foundation model for industrial vibratio
 
 # 🖥 Journal Reviews
 
+
 - *Information Fusion (IF)*
 - *Advanced Engineering Informatics (AEI)*
 - *IEEE Transactions on Industrial Informatics (TII)*
 - *Mechanical Systems and Signal Processing (MSSP)*
 - *IEEE Transactions on Industrial Electronics (TIE)*
 - *IEEE Transactions on Instrumentation and Measurement (TIM)*
-- *IEEE Transactions on Industrial Informatics (TII)*
 - *Measurement*
 - *Measurement Science and Technology (MST)*
+- *IEEE Transactions on system, man and cybernetics:systems*
+- *IEEE Transactions on cybernetics*
+- *IEEE Transactions on reliability*
+- *Engineering*
+- *Applied soft computing*
+- *reliablity engineering & systen safety*
+
 
 # 🤔 Project
 
 - Vibration noise reduction for some aircrafts (key contributor)
 - Measurement the parameters for some aircrafts (key contributor)
 - I am also leading an open-source project group called [PHMBench](https://github.com/PHMBench) and contribute to various PHM research initiatives.
+- [self-distillation of PHD period](https://github.com/liq22/THU_Self-Distillation)
 
 # 🎙 Social Activities
 
+- *2025*: Interview by Tsinghua University [Link](https://mp.weixin.qq.com/s/dPp1mKACXWI0FLqtREoPPA)
 - *2023*：Volunteer at the IFToMM International Conference on Rotordynamics
 - *2019 - 2022*: Graduate monitor of the University of Mechanical and Electric Engineering, SUDA
 - *2021*: Interview by Student Union of Soochow University [Link](https://mp.weixin.qq.com/s/zW07Tp2uh0CkHzmfCAVnqw)
