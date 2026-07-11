@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Li Qi's Homepage"
-description              : "Tsinghua University."
+title                    : "Qi Li | Trustworthy AI and PHM"
+description              : "Postdoctoral researcher at Tsinghua University working on trustworthy AI, foundation models, and prognostics and health management."
 repository               : "liq22/liq22.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qi Li"
-  avatar           : "images/LQ.png"  # 修改为新头像的文件名
-  bio              : "Ph.D. Candidate in Mechanical Engineering at Tsinghua University."
+  avatar           : "images/LQ.png"
+  bio              : "Postdoctoral Researcher in the Department of Automation at Tsinghua University."
   location         : "Beijing, China"
-  employer         :
-  pubmed           : 
+  employer         : "Tsinghua University"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=vCabh8oAAAAJ"
-  email            : "liq22@mails.tsinghua.edu.cn"
+  email            : "liq22@tsinghua.org.cn"
   researchgate     : "https://www.researchgate.net/profile/Qi-Li-155"
   uri              :
   bitbucket        :
@@ -51,13 +51,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         : "https://space.bilibili.com/1864908149?spm_id_from=333.1369.0.0"  # 修改为你的B站主页链接
+  bilibili         : "https://space.bilibili.com/1864908149?spm_id_from=333.1369.0.0"
 
 
 # Reading Files
@@ -162,7 +162,7 @@ whitelist:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - http://jch.penblst.de/
 compress_html:
   clippings: all
   ignore:
