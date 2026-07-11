@@ -162,7 +162,7 @@ whitelist:
 
 
 # HTML Compression
-# - http://jch.penblst.de/
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
