@@ -1,0 +1,55 @@
+name: Optimize Images
+
+on:
+  pull_request:
+    paths:
+      - "images/**/*.jpg"
+      - "images/**/*.jpeg"
+      - "images/**/*.png"
+      - "images/**/*.webp"
+      - "images/**/*.avif"
+  workflow_dispatch:
+  schedule:
+    - cron: "15 2 1 * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  optimize:
+    if: github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Compress images
+        id: calibre
+        uses: calibreapp/image-actions@1.5.0
+        with:
+          compressOnly: ${{ github.event_name != 'pull_request' }}
+          jpegQuality: "85"
+          pngQuality: "80"
+          webpQuality: "85"
+          avifQuality: "75"
+          minPctChange: "5"
+          minAbsChange: "1024"
+          ignorePaths: "docs/**"
+
+      - name: Open image-optimization pull request
+        if: github.event_name != 'pull_request' && steps.calibre.outputs.markdown != ''
+        uses: peter-evans/create-pull-request@v8
+        with:
+          commit-message: "Optimize website images"
+          title: "Optimize website images"
+          body: ${{ steps.calibre.outputs.markdown }}
+          branch: "automation/optimize-images"
+          delete-branch: true
+          add-paths: |
+            images/**/*.jpg
+            images/**/*.jpeg
+            images/**/*.png
+            images/**/*.webp
+            images/**/*.avif
